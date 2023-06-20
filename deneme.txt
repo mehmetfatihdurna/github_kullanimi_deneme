@@ -1,1 +1,6 @@
 İlk satır, github kulanımını deniyoruz.
+<<<<<<< HEAD
+İkinci satır, masaüsütündeki
+=======
+İkinci satır, githubdaki
+>>>>>>> 9de8be0cfa159826f4e26772c4f99582d9e228d9
